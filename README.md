@@ -21,7 +21,7 @@ This project analyzes Chicago crime data to uncover trends, hotspots, and patter
 
 3️⃣ Predictive Modeling
 📉 ARIMA/SARIMA: Time-series forecasting to predict future crime rates.
-🧠Future Work :  Neural Networks (RNN, LSTM): Capture complex temporal dependencies for advanced crime prediction.
+🧠 Future enhancement : Improve using Neural Networks (RNN, LSTM): Capture complex temporal dependencies for advanced crime prediction.
 
 4️⃣ Visualization
 📊 Interactive dashboards with Power BI or Tableau to display crime hotspots, trends, and model forecasts.
@@ -32,8 +32,11 @@ This project showcases how data-driven techniques can aid in crime prevention. B
 📂 How to Use This Repository
 📥 Dataset: Contains pre-processed Chicago crime data.
 💻 Code: Python scripts for EDA, feature engineering, and predictive modeling.
-📊 Dashboard: Interactive dashboards using Power BI/Tableau for visualization.
+📊 Dashboard: The Power BI file is hosted externally due to size constraints.
+Download the Power BI Dashboard here.
 📄 Reports: Final reports and visualizations summarizing findings.
 📧 Contact Me
 💡 Have questions or feedback? Feel free to reach out:
 📩 datascientist.ld1981@gmail.com
+
+⭐ Don’t forget to Star this repository if you find it useful! 🌟
