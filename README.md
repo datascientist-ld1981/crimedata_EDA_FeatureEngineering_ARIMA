@@ -24,7 +24,7 @@ This project analyzes Chicago crime data to uncover trends, hotspots, and patter
 🧠 Future enhancement : Improve using Neural Networks (RNN, LSTM): Capture complex temporal dependencies for advanced crime prediction.
 
 4️⃣ Visualization
-📊 Interactive dashboards with Power BI or Tableau to display crime hotspots, trends, and model forecasts.
+📊 Interactive dashboards with Power BI  to display crime hotspots, trends, and model forecasts.
 
 ✅ Conclusion
 This project showcases how data-driven techniques can aid in crime prevention. By uncovering patterns, predicting future trends, and visualizing actionable insights, it supports proactive policing, better resource allocation, and enhanced community safety.
